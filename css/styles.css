@@ -176,7 +176,7 @@
 }
 
 .button.button-black.button-black-bookmark {
-  padding-top: 21px;
+  line-height: 21px;
 }
 
 /* этот стиль применяется только для тех кнопок, которые находятся в main-actions */
